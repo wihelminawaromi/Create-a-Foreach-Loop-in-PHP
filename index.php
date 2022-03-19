@@ -8,7 +8,7 @@
     $array = array("Daniel", "Jane", "Jacob", "Mariane");
 
     foreach ($array as $loopdata) {
-        echo "My name is ".$loopdata."<br>"
+        echo "My name is ".$loopdata."<br>" ;
     }
 
     ?>
